@@ -1,0 +1,82 @@
+/*CSS dos cards*/
+
+
+/*Estilo universal para todos os cartões*/
+
+body {
+    background: rgb(0, 0, 0);
+}
+
+.container {
+    margin-top: 110px !important;
+    background: rgb(0, 0, 0);
+}
+
+.h1 {
+    text-align: center;
+}
+
+.card {
+    border: none;
+    outline: none;
+    background-color: #000;
+    background: #000;
+    color: #000000;
+    border-radius: 20px;
+    margin-right: 10px;
+    margin-top: 10;
+    transition: transform .10s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card:hover {
+    transform: translateY(-15px);
+    transition: transform .10s;
+}
+
+.card-text {
+    font-size: 30px;
+    color: #000000;
+}
+
+.card-img-top {
+    border-radius: 20px;
+    width: 100px;
+}
+
+.card-title {
+    font-size: 38px;
+    color: #000000;
+}
+
+.info {
+    line-height: 17px;
+}
+
+
+/*cards*/
+
+.cost span {
+    color: #fb3531;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.shoe {
+    background: #000000;
+}
+
+
+/*novamente Estilo universal para todos os cartões*/
+
+.shoe:hover {
+    opacity: .8;
+}
+
+.cursor {
+    cursor: pointer;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}

@@ -1,0 +1,64 @@
+/* navbar */
+
+
+/*CSS dos cards*/
+@import "https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-alpha1/dist/css/bootstrap.min.css";
+
+/*Estilo universal para todos os cartões*/
+
+body{
+    background: #000;
+}
+
+.container{
+    margin-top: 110px !important;
+}
+.h1{
+    text-align: center;
+}
+
+.card{
+    border: none;
+    outline: none;
+    background-color: #000;
+    border-radius: 20px;
+    transition: transform .3s;
+}
+
+.card:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+}
+
+.text1{
+    font-size: 15px;
+    color: #000000;
+}
+
+.info{
+    line-height: 17px;
+}
+
+/*cards*/
+
+.cost span{
+    color: #fb3531;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.shoe{
+    background:#000000;
+}
+
+/*novamente Estilo universal para todos os cartões*/
+
+.shoe:hover{
+    opacity: .8;
+}
+
+.cursor{
+    cursor: pointer;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}

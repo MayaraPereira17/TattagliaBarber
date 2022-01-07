@@ -1,0 +1,27 @@
+form{
+    width: 18%;
+    margin: 0% auto;
+}
+
+input,textarea {
+    width: 100%;
+    margin-bottom: 1em;    
+}
+button {
+    margin-top: 1rem;
+    padding: 0.4rem;
+    width: 160%;
+    background: linear-gradient(to left, #111111, #000000, #111111);
+    cursor: pointer;
+    color: white;
+    font-size: 0.9rem;
+    font-weight: 300;
+    border-radius: 3px;
+    transition: all 0.3s ease;
+}
+ 
+button:hover {
+    letter-spacing: 0.5px;
+    background: linear-gradient(to right, #111111, #000000, #111111);
+}
+

@@ -1,0 +1,16 @@
+.card{
+  min-height: 82vh;
+  }
+  .form-group{
+    margin: 0 0;
+  }
+  .md-form{
+  margin: 8px 0;
+  }
+  .help-block.error {
+    margin-bottom: 2px;
+  }
+
+  .btn{
+      width: 50%;
+  }
