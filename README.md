@@ -1,4 +1,4 @@
-<h2># TattagliaBarber</h2>
+<h2># TattagliaBarber 💈</h2>
 <br>
 
 <i>
@@ -6,7 +6,7 @@
 <br>
 tattgliabarber.onlinewebshop.net
 </i>
-
+<br>
 ![index](https://user-images.githubusercontent.com/79329230/160289797-cd981f11-0823-44eb-8627-bfd0327fb660.png)
 
 ![index2](https://user-images.githubusercontent.com/79329230/160289795-b75f3c59-f161-4558-a0ac-40301fc1c553.png)
