@@ -1,4 +1,4 @@
-<h2># 💈 TattagliaBarber 💈</h2>
+<h2>💈 TattagliaBarber 💈</h2>
 <br>
 
 <i>
